@@ -1,2 +1,3 @@
 name = "Michał"
-print("Cześć! Mam na imię", name + ".")
+for i in range(3):
+    print("Cześć! Mam na imię", name + ".")
